@@ -1,0 +1,12 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "mi primero proyecto con node, aprendiendo en open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ej": "node ejercicio.js"
+  },
+  "author": "maldita_zurda",
+  "license": "ISC"
+}
